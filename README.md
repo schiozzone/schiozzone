@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">I’m a CS student and I'm currently working on a ray tracer!</p>
 
-<img style="margin:auto;width:40%;dispaly:block;" src="cover.jpg" />
+<p align="center">
+  <img width="40%" src="cover.jpg" />
+</p>
 
 ## Used languages
 <p align="center"><img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,haskell,java,js,lua,php,py,ruby,ts&perline=6" alt="Bash, C, C#, C++, Haskell, Java, JavaScript, Lua, PHP, Python, Ruby, TypeScript"/></p>
