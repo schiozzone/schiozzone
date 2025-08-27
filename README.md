@@ -5,7 +5,7 @@
   <img width="40%" src="cover.jpg" />
 </p>
 
-## Used languages
+## Languages used
 <p align="center"><img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,haskell,java,js,lua,php,py,ruby,ts&perline=6" alt="Bash, C, C#, C++, Haskell, Java, JavaScript, Lua, PHP, Python, Ruby, TypeScript"/></p>
 
 ## Other tools
